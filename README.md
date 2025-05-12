@@ -92,18 +92,18 @@
   <section class="products">
     <div class="product">
       <img src="https://via.placeholder.com/200x200.png?text=Baby+Hat" alt="Crochet Baby Hat">
-      <h3>Baby Hat</h3>
-      <p>Soft and warm, perfect for newborns.</p>
+      <h3>honey bee keyrings</h3>
+      <p></p>
     </div>
     <div class="product">
       <img src="https://via.placeholder.com/200x200.png?text=Blanket" alt="Crochet Blanket">
-      <h3>Cozy Blanket</h3>
-      <p>Snuggle-ready in pastel tones.</p>
+      <h3>White Rose Bookay</h3>
+      <p></p>
     </div>
     <div class="product">
       <img src="https://via.placeholder.com/200x200.png?text=Booties" alt="Crochet Booties">
-      <h3>Baby Booties</h3>
-      <p>Adorable and soft on tiny feet.</p>
+      <h3>Red Rose Bookey</h3>
+      <p></p>
     </div>
   </section>
 
