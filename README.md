@@ -1,5 +1,4 @@
-
-  # Chrocet-Items
+# Chrocet-Items
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -35,12 +34,12 @@
     </div>
     <div class="product">
       <img src="https://via.placeholder.com/200x200.png?text=Blanket" alt="">
-      <h3>White Rose Bookay</h3>
+      <h3>White Rose Bouquet</h3>
       <p></p>
     </div>
     <div class="product">
       <img src="https://via.placeholder.com/200x200.png?text=Booties" alt="">
-      <h3>Red Rose Bookey</h3>
+      <h3>Red Rose Bouquet</h3>
       <p></p>
     </div>
   </section>
@@ -48,6 +47,3 @@
   <footer>
     <p>© 2025 Crochet Creations · Handmade with love</p>
   </footer>
-
-</body>
-</html>
